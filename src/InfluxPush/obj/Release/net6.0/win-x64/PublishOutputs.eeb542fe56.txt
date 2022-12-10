@@ -1,0 +1,3 @@
+C:\Users\Aanchal Mittal\OneDrive\Documents\Professional\repos\InfluxPush\bin\Release\net6.0\publish\win-x64\InfluxPush.pdb
+C:\Users\Aanchal Mittal\OneDrive\Documents\Professional\repos\InfluxPush\bin\Release\net6.0\publish\win-x64\InfluxPush.dll.config
+C:\Users\Aanchal Mittal\OneDrive\Documents\Professional\repos\InfluxPush\bin\Release\net6.0\publish\win-x64\InfluxPush.exe

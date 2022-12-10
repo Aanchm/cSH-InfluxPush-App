@@ -1,0 +1,5 @@
+C:\Users\Aanchal Mittal\OneDrive\Documents\Professional\repos\InfluxPush\obj\Debug\net6.0\InfluxPush.csproj.AssemblyReference.cache
+C:\Users\Aanchal Mittal\OneDrive\Documents\Professional\repos\InfluxPush\obj\Debug\net6.0\InfluxPush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aanchal Mittal\OneDrive\Documents\Professional\repos\InfluxPush\obj\Debug\net6.0\InfluxPush.AssemblyInfoInputs.cache
+C:\Users\Aanchal Mittal\OneDrive\Documents\Professional\repos\InfluxPush\obj\Debug\net6.0\InfluxPush.AssemblyInfo.cs
+C:\Users\Aanchal Mittal\OneDrive\Documents\Professional\repos\InfluxPush\obj\Debug\net6.0\InfluxPush.csproj.CoreCompileInputs.cache

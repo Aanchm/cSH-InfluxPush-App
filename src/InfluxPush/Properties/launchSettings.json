@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InfluxPush": {
+      "commandName": "Project",
+      "commandLineArgs": "--influxToken=QyBUZfZBgEBx8pOel3MMjVSyy_JZrGf6Zmr9eKr-QyPt8lsgtUxhvJBkjdC5Qjg00edF5bJN_WILgZx8PfEWzw== --url=http://localhost:8086 --org=Aanchal --bucket=test_data --measurementName=test1 --delimiter=; --directoryPath=C:\\repos\\DataExamples"
+    }
+  }
+}
